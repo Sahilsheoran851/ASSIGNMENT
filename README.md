@@ -1,8 +1,10 @@
-# Title of the Notebook
+# Data Analysis with R and Python
 
 ## Exercise 3 - Introduction
 
-This notebook is designed to provide an overview of various concepts and practices in data science. We will cover multiple aspects including programming languages, libraries, tools, and basic arithmetic operations. The aim is to equip you with foundational knowledge and skills needed for data science.
+This notebook is designed to provide an overview of various concepts and practices in data science. 
+We will cover multiple aspects including programming languages, libraries, tools, and basic arithmetic operations. 
+The aim is to equip you with foundational knowledge and skills needed for data science.
 
 ## Exercise 4 - Data Science Languages
 
@@ -72,7 +74,7 @@ multiply = a * b
 add = a + b
 
 
-## Exercise 8 -  Convert minutes to hours
+## Exercise 9 -  Convert minutes to hours
 
 minutes = 150
 hours = minutes / 60
